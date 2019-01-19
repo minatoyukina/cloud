@@ -1,2 +1,2 @@
 # cloud
-a simple spring cloud config test
+Yet another simple spring-cloud config test
